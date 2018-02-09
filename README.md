@@ -1,24 +1,5 @@
-# README
+This is a project from The Odin Project: https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-advanced-forms?ref=lnav
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It is a prototype flight booker web app, without the billing/payment step.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The user can search for one-way flights and select one, then enter passenger information to book the flight.
